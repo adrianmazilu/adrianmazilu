@@ -1,7 +1,7 @@
-[![MasterHead](https://64.media.tumblr.com/bbb8369e7485de6c4bfc51e1738d61d7/3fbd1bd5b8a3a294-1a/s500x750/ab5bb0124b442d37e5e7ef19910cfc3c8cce6fb4.gif)](https://github.com/adrianmazilu)
+[![MasterHead](https://images2.imgbox.com/ff/25/lkUfEbKs_o.gif)](https://github.com/adrianmazilu)
 <h1 align="center">Hi 👋, I'm Adrian Mazilu</h1>
 <h3 align="center">A passionate student from Romania , aspiring to be a backend dev</h3>
-(img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/bbb8369e7485de6c4bfc51e1738d61d7/3fbd1bd5b8a3a294-1a/s500x750/ab5bb0124b442d37e5e7ef19910cfc3c8cce6fb4.gif")
+(img align="right" alt="Coding" width="400" src="https://images2.imgbox.com/ff/25/lkUfEbKs_o.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrianmazilu&label=Profile%20views&color=0e75b6&style=flat" alt="adrianmazilu" /> </p>
 
