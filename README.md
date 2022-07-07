@@ -1,4 +1,4 @@
-[![MasterHead]("C:\Users\stfu\Documents\GitHub\adrianmazilu\gif1.gif")]
+[![MasterHead](C:\Users\stfu\Documents\GitHub\adrianmazilu\gif1.gif)]
 <h1 align="center">Hi 👋, I'm Adrian Mazilu</h1>
 <h3 align="center">A passionate student from Romania , aspiring to be a backend dev</h3>
 (img align="right" alt="Coding" width="400" src="C:\Users\stfu\Documents\GitHub\adrianmazilu\gif1.gif")
