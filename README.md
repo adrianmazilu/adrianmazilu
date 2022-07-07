@@ -1,3 +1,4 @@
+[![MasterHead](https://cdn.discordapp.com/attachments/940204220882243635/994573953534275665/gif1.gif)]
 <h1 align="center">Hi 👋, I'm Adrian Mazilu</h1>
 <h3 align="center">A passionate student from Romania , aspiring to be a backend dev</h3>
 (img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/940204220882243635/994573953534275665/gif1.gif")
