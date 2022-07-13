@@ -1,6 +1,5 @@
-
 <h1 align="center">Hi 👋, I'm Adrian Mazilu</h1>
-<h3 align="center">A passionate student from Romania , aspiring to be a backend dev</h3>
+<h3 align="center">A passionate student from Romania , aspiring to be a fullstack dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrianmazilu&label=Profile%20views&color=0e75b6&style=flat" alt="adrianmazilu" /> </p>
 
